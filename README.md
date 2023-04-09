@@ -1,5 +1,7 @@
 # flutter_save_image_gallery
 
+<img src="/screenshot/img01.png" width=250/>
+
 ## 1. 安裝庫
 請在 `pubspec.yaml` 加入以下兩個庫。
 
